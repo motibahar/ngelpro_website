@@ -1,2 +1,2 @@
-# nglpro_website
+# NGELPRO
 A website for nglpro company
